@@ -35,7 +35,7 @@ Open your web browser and go to http://localhost:5000 to access the application.
 Upload a BibTeX file using the provided form and click the "Process" button.
 
 The application will identify any duplicate author entries and display the results.
-**Note: Nothing will be printed if not duplicate is identified.**
+**Note: Nothing will be printed if no duplicate is identified.**
 Example:
-![alt text](https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png?raw=true)
+![alt text]([http://url/to/img.png](https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png)https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png)
 
