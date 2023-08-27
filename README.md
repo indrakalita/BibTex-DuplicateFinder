@@ -37,5 +37,4 @@ Upload a BibTeX file using the provided form and click the "Process" button.
 The application will identify any duplicate author entries and display the results.
 **Note: Nothing will be printed if no duplicate is identified.**
 Example:
-![alt text]([http://url/to/img.png](https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png)https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png)
-
+![alt text](https://github.com/indrakalita/Indian-Crop-Classification-using-UAV-Images/blob/main/Dataset/1.jpg)
