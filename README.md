@@ -30,4 +30,10 @@ cd BibTex-DuplicateFinder
 4. Run the Flask application.
 python app.py
 
-5. On the browser http://127.0.0.1:5000/
+Open your web browser and go to http://localhost:5000 to access the application.
+
+Upload a BibTeX file using the provided form and click the "Process" button.
+
+The application will identify any duplicate author entries and display the results.
+**Note: Nothing will be printed if not duplicate is identified.**
+
