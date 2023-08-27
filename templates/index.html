@@ -1,0 +1,25 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BibTeX Duplicate Finder</title>
+</head>
+<body>
+    <h1>BibTeX Duplicate Finder</h1>
+    <form action="/" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <button type="submit">Process</button>
+    </form>
+    {% if result %}
+<h2>Duplicate Entries:</h2>
+<ul>
+    {% for entry in result %}
+    <li>{{ entry[0] }} and {{ entry[1] }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>No duplicate entries found.</p>
+{% endif %}
+</body>
+</html>
