@@ -38,3 +38,6 @@ Upload a BibTeX file using the provided form and click the "Process" button.
 
 The application will identify any duplicate author entries and display the results.
 **Note: Nothing will be printed if no duplicate is identified.**
+
+## Search Keywords
+BibTeX duplicate finder, Duplicate BibTeX entries, BibTeX duplicate title detection, BibTeX duplicate author detection, BibTeX reference deduplication tool, Managing BibTeX duplicates, BibTeX entry consistency, BibTeX bibliography maintenance, Duplicate references in BibTeX, BibTeX journal title duplication, BibTeX conference title duplicates, Duplicate thesis entries in BibTeX, BibTeX entry deduplication, BibTeX reference integrity, BibTeX clean up tool, BibTeX title similarity check, BibTeX duplicate entry prevention
