@@ -1,5 +1,5 @@
 Demo:
-![alt text]([https://github.com/indrakalita/Indian-Crop-Classification-using-UAV-Images/blob/main/Dataset/1.jpg](https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png))
+![alt text](https://github.com/indrakalita/BibTex-DuplicateFinder/blob/main/test.png)
 # BibTeX Duplicate Finder
 
 BibTeX Duplicate Finder is a Flask web application that helps you find duplicate entries in a BibTeX file. It takes a BibTeX file as input and displays any duplicate author entries.
